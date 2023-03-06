@@ -1,17 +1,6 @@
 # iot-basics
 
->This repository is a collection of basic IoT projects done by interns as part of their internship.
-
-----
-
-## Note to interns
-- Each experiment needs to be in a folder, with the name of experiment in Title Case.
-- Each repo should contain a README.md file that will have the detailed explanation of the experiment.
-- The repo should have the code file and one good quality circuit snapshot.
-- The readme file should have the detailed description for any one to reprodce the work with miniaml external references.
-- Provide reference links (if available)
-
-----
+>This repository is a collection of basic IoT projects done as part of internship.
 
 ## Details of Interns
 1. Rohan Harchandani [rohanhar16](https://github.com/rohanhar16)
